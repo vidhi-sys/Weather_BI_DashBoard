@@ -72,10 +72,15 @@ Weather data is fetched from:
 
 **OpenWeather API**
 
-API integration handled via:
-- Power Query (Web Connector)
-- JSON parsing
-- Data transformation
+📂 Dataset Files Used
+
+✔ Download/Uploaded in this project (from your Google Drive link):
+https://drive.google.com/drive/folders/1D_J7NSruksjQFGe7l92ZoAx0OnCnQzJC
+
+- 📡 Weather API Details
+
+This project uses the WeatherAPI REST endpoint to import weather data.
+API Explorer: https://www.weatherapi.com/api-explorer.aspx
 
 ---
 
