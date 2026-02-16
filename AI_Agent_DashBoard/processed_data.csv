@@ -1,0 +1,6 @@
+episode_id,task_domain,task_description,agent_goal,agent_thought,agent_action,action_type,tool_name,tool_input,observation,step_outcome,is_terminal,success_score,model_name,source
+EP001,search,Find the capital of Australia,Answer correctly,I should search to confirm the capital,Search query,tool_call,True,True,Search result shows Canberra,successful,False,0.2,gpt-4,synthetic
+EP001,search,Find the capital of Australia,Answer correctly,Now I can respond confidently,Answer: Canberra,respond,False,False,User accepts answer,successful,True,1.0,gpt-4,synthetic
+EP002,math,Solve 24 * 17,Compute the correct result,Multiplication is required,Calculate expression,think,False,False,Computed intermediate result,successful,False,0.5,gpt-4,synthetic
+EP002,math,Solve 24 * 17,Compute the correct result,Final answer is ready,Answer: 408,respond,False,False,Answer verified,successful,True,1.0,gpt-4,synthetic
+EP003,planning,Create a daily study plan,Generate an effective plan,Break the task into steps,Generate structured plan,respond,False,False,User approves plan,successful,True,1.0,gpt-4,synthetic
