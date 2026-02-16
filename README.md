@@ -88,5 +88,7 @@ API Explorer: https://www.weatherapi.com/api-explorer.aspx
 
 
 ![Dashboard Preview](dashboard.png)
+<img width="1134" height="640" alt="image" src="https://github.com/user-attachments/assets/67b504a1-b1ea-49e1-83a3-1c0f595bd09b" />
+
 
 
